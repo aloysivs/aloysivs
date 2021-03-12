@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @aloysivs.
-- 🌱 I’m currently learning for Master's degree in Agricultural Sciences and Technologies.
-- 💞️ I’m looking to collaborate on everything.
-
+- 👋 Ciao, I’m @aloysivs.
+- 🌱 I’m currently learning for Master's degree in Plant Production.
 
 <!---
 aloysivs/aloysivs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
